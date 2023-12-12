@@ -1,9 +1,21 @@
 # Mapty-app
 
-![image](https://github.com/Hasnat-Ahmed-Goheer/Mapty-app/assets/126459187/c7f7504a-3fb9-4989-890f-41ca2dada1ae)
+![GitHub repo size](https://img.shields.io/github/repo-size/Hasnat-Ahmed-Goheer/Mapty-app)
+![GitHub last commit](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Mapty-app?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ahmed-Goheer/Mapty-app)
+![GitHub forks](https://img.shields.io/github/forks/Hasnat-Ahmed-Goheer/Mapty-app)
+![GitHub issues](https://img.shields.io/github/issues/Hasnat-Ahmed-Goheer/Mapty-app)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Hasnat-Ahmed-Goheer/Mapty-app)
+
+
+![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Mapty-app?label=Last%20Updated&color=yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 
 
 Mapty-app is a web application that allows users to track their sprints and cycling routes using real-time geolocation. This project is built using HTML, CSS, and JavaScript, and it utilizes the Mapty library for mapping functionalities.
+
+![image](https://github.com/Hasnat-Ahmed-Goheer/Mapty-app/assets/126459187/c7f7504a-3fb9-4989-890f-41ca2dada1ae)
 
 ## Key Features
 
