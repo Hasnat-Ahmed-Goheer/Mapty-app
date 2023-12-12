@@ -29,3 +29,6 @@ git clone https://github.com/Hasnat-Ahmed-Goheer/Mapty-app.git
 3. Allow the app to access your geolocation when prompted.
 
 4. Start tracking your workouts by clicking on the map to add starting points.
+
+## Contact
+If you want to reach out to me, you can contact me at [ch.hsyahmedgoheer@hotmail.com](mailto:ch.hsyahmedgoheer@hotmail.com). 
